@@ -1,0 +1,15 @@
+.eachContaienr {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  width: 180px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+img {
+  width: 100px;
+}
